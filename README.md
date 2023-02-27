@@ -12,8 +12,11 @@
 crie um arquivo chamado .env copie o conteudo de .env.example para ele.
 
 Rode os sequintes comandos no terminal:
+
 npm i
+
 php artisan migrate (digitar 'yes' para criar o banco)
+
 php artisan db:seed
 
 ## Rodando o Front
