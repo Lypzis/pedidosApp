@@ -15,6 +15,8 @@ Rode os sequintes comandos no terminal:
 
 npm i
 
+composer install
+
 php artisan migrate (digitar 'yes' para criar o banco)
 
 php artisan db:seed
@@ -28,3 +30,7 @@ npm run dev
 
 Em um terminal execute o comando:
 php artisan serve
+
+## Acesso
+
+http://127.0.0.1:8000
